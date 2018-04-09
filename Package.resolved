@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Promises",
+        "repositoryURL": "https://github.com/google/promises.git",
+        "state": {
+          "branch": null,
+          "revision": "6377f4b2b1d7629f3a44b9742fe9707257dcd969",
+          "version": "1.0.8"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
