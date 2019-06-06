@@ -1,7 +1,7 @@
 import Foundation
 
 public extension TMDb.Tv {
-    public enum Genre: Int {
+    enum Genre: Int {
         case actionAndAdventure = 10759
         case animation = 16
         case comedy = 35
