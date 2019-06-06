@@ -12,7 +12,7 @@ class ResourceTests: XCTestCase {
     override func setUp() {
         movie = Movie(
             api: TMDb(
-                baseUrl: Bundle(for: ResourceTests.self)
+                baseUrl: Bundle.init(for: ResourceTests.self)
                     .url(forResource: "Resources", withExtension: "bundle")!
                     .appendingPathComponent("json"),
                 apiKey: "abc123"

@@ -11,11 +11,10 @@ class TvTests: XCTestCase {
     var session: URLSession!
 
     override func setUp() {
-
-        baseUrl = Bundle(for: ResourceTests.self)
+        let bundle = Bundle(for: ResourceTests.self)
+        baseUrl = bundle
             .url(forResource: "Resources", withExtension: "bundle")!
             .appendingPathComponent("json")
-
         tv = Tv(api: TMDb(
             baseUrl: baseUrl,
             apiKey: apiKey,
