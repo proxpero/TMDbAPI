@@ -19,7 +19,7 @@ extension TMDb.Tv {
     }
 
     private func listResults(for url: URL) -> Resource<[ListResultObject]> {
-        return Resource<[ListResultObject]>(url: url, parse: parseList)
+        return Resource<[ListResultObject]>(url: url)
     }
 
     private func parseList(data: Data) -> [ListResultObject]? {

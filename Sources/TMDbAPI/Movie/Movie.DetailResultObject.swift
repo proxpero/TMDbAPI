@@ -56,7 +56,7 @@ extension TMDb.Movie {
                 let releaseDateString = try? container.decode(String.self, forKey: .releaseDate),
                 let releaseDate = DetailResultObject.date(from: releaseDateString),
                 let runtime = try? container.decodeIfPresent(Int.self, forKey: .runtime),
-                let homepageUrlString = try? container.decodeIfPresent(String.self, forKey: .homepage),
+                let homepageUrl = try? container.decodeIfPresent(URL.self, forKey: .homepage),
                 let genres = try? container.decode([GenreResultObject].self, forKey: .genres),
                 let originalTitle = try? container.decode(String.self, forKey: .originalTitle),
                 let originalLanguage = try? container.decode(String.self, forKey: .originalLanguage),
@@ -74,11 +74,7 @@ extension TMDb.Movie {
             self.overview = overview
             self.releaseDate = releaseDate
             self.runtime = runtime
-            if let homepage = homepageUrlString, let url = URL(string: homepage) {
-                self.homepage = url
-            } else {
-                self.homepage = nil
-            }
+            self.homepage = homepageUrl
             self.genres = genres.compactMap { $0.genre }
             self.originalTitle = originalTitle
             self.originalLanguage = originalLanguage

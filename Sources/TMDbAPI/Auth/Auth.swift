@@ -50,7 +50,6 @@ extension TMDb.Auth {
             }
             self.value = token
         }
-
     }
 
     struct SessionToken: Decodable {
@@ -73,7 +72,4 @@ extension TMDb.Auth {
             self.value = value
         }
     }
-
 }
-
-

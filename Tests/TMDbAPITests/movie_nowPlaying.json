@@ -1,0 +1,409 @@
+{
+    "results": [
+        {
+            "vote_count": 1152,
+            "id": 420817,
+            "video": false,
+            "vote_average": 7.2,
+            "title": "Aladdin",
+            "popularity": 364.955,
+            "poster_path": "/3iYQTLGoy7QnjcUYRJy4YrAgGvp.jpg",
+            "original_language": "en",
+            "original_title": "Aladdin",
+            "genre_ids": [
+                12,
+                14,
+                10749,
+                35,
+                10751
+            ],
+            "backdrop_path": "/v4yVTbbl8dE1UP2dWu5CLyaXOku.jpg",
+            "adult": false,
+            "overview": "A kindhearted street urchin named Aladdin embarks on a magical adventure after finding a lamp that releases a wisecracking genie while a power-hungry Grand Vizier vies for the same lamp that has the power to make their deepest wishes come true.",
+            "release_date": "2019-05-22"
+        },
+        {
+            "vote_count": 331,
+            "id": 373571,
+            "video": false,
+            "vote_average": 6.5,
+            "title": "Godzilla: King of the Monsters",
+            "popularity": 327.949,
+            "poster_path": "/pU3bnutJU91u3b4IeRPQTOP8jhV.jpg",
+            "original_language": "en",
+            "original_title": "Godzilla: King of the Monsters",
+            "genre_ids": [
+                878,
+                53,
+                28
+            ],
+            "backdrop_path": "/uovH5k4BAEPqXqxgwVrTtqH169g.jpg",
+            "adult": false,
+            "overview": "The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.",
+            "release_date": "2019-05-29"
+        },
+        {
+            "vote_count": 890,
+            "id": 458156,
+            "video": false,
+            "vote_average": 7.3,
+            "title": "John Wick: Chapter 3 – Parabellum",
+            "popularity": 238.643,
+            "poster_path": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+            "original_language": "en",
+            "original_title": "John Wick: Chapter 3 – Parabellum",
+            "genre_ids": [
+                80,
+                28,
+                53
+            ],
+            "backdrop_path": "/vVpEOvdxVBP2aV166j5Xlvb5Cdc.jpg",
+            "adult": false,
+            "overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+            "release_date": "2019-05-15"
+        },
+        {
+            "vote_count": 45,
+            "id": 320288,
+            "video": false,
+            "vote_average": 6.5,
+            "title": "Dark Phoenix",
+            "popularity": 181.976,
+            "poster_path": "/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg",
+            "original_language": "en",
+            "original_title": "Dark Phoenix",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "backdrop_path": "/cjRUhKyt2Jo3V1KNzc5tpPNfccG.jpg",
+            "adult": false,
+            "overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+            "release_date": "2019-06-05"
+        },
+        {
+            "vote_count": 62,
+            "id": 502416,
+            "video": false,
+            "vote_average": 5.7,
+            "title": "Ma",
+            "popularity": 181.277,
+            "poster_path": "/6n7ASmQ1wY2cxTubFFGlcvPpyk7.jpg",
+            "original_language": "en",
+            "original_title": "Ma",
+            "genre_ids": [
+                53,
+                27
+            ],
+            "backdrop_path": "/mBOv5YrX5QGr5CusK0PKSHuxOt9.jpg",
+            "adult": false,
+            "overview": "Sue Ann is a loner who keeps to herself in her quiet Ohio town. One day, she is asked by Maggie, a new teenager in town, to buy some booze for her and her friends, and Sue Ann sees the chance to make some unsuspecting, if younger, friends of her own.",
+            "release_date": "2019-05-29"
+        },
+        {
+            "vote_count": 6510,
+            "id": 299534,
+            "video": false,
+            "vote_average": 8.5,
+            "title": "Avengers: Endgame",
+            "popularity": 139.699,
+            "poster_path": "/or06FN3Dka5tukK1e9sl16pB3iy.jpg",
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "adult": false,
+            "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+            "release_date": "2019-04-24"
+        },
+        {
+            "vote_count": 257,
+            "id": 504608,
+            "video": false,
+            "vote_average": 7.7,
+            "title": "Rocketman",
+            "popularity": 137.299,
+            "poster_path": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+            "original_language": "en",
+            "original_title": "Rocketman",
+            "genre_ids": [
+                10402,
+                18
+            ],
+            "backdrop_path": "/oAr5bgf49vxga9etWoQpAeRMvhp.jpg",
+            "adult": false,
+            "overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+            "release_date": "2019-05-22"
+        },
+        {
+            "vote_count": 32,
+            "id": 412117,
+            "video": false,
+            "vote_average": 6.2,
+            "title": "The Secret Life of Pets 2",
+            "popularity": 112.672,
+            "poster_path": "/q3mKnSkzp1doIsCye6ap4KIUAbu.jpg",
+            "original_language": "en",
+            "original_title": "The Secret Life of Pets 2",
+            "genre_ids": [
+                12,
+                16,
+                35,
+                10751
+            ],
+            "backdrop_path": "/etaok7q2E5tV36oXe7GQzhUQ4fX.jpg",
+            "adult": false,
+            "overview": "What happens with our pets when we’re not home? This movie continues the original movie with Max and his friends.",
+            "release_date": "2019-05-24"
+        },
+        {
+            "vote_count": 1098,
+            "id": 447404,
+            "video": false,
+            "vote_average": 7,
+            "title": "Pokémon Detective Pikachu",
+            "popularity": 91.888,
+            "poster_path": "/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg",
+            "original_language": "en",
+            "original_title": "Pokémon Detective Pikachu",
+            "genre_ids": [
+                9648,
+                10751,
+                35,
+                878,
+                28,
+                12
+            ],
+            "backdrop_path": "/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+            "adult": false,
+            "overview": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+            "release_date": "2019-05-03"
+        },
+        {
+            "vote_count": 16,
+            "id": 529983,
+            "video": false,
+            "vote_average": 4.8,
+            "title": "The Poison Rose",
+            "popularity": 88.647,
+            "poster_path": "/gSzyUmg719TgAxarFZYWjLLMqvS.jpg",
+            "original_language": "en",
+            "original_title": "The Poison Rose",
+            "genre_ids": [
+                80,
+                9648
+            ],
+            "backdrop_path": "/3foyl4i78mZoeBb8EQ0RR5axu01.jpg",
+            "adult": false,
+            "overview": "A down-on-his-luck PI is hired by his old flame to investigate a murder. But while the case at first appears routine, it slowly reveals itself to be a complex interwoven web of crimes, suspects and dead bodies.",
+            "release_date": "2019-05-23"
+        },
+        {
+            "vote_count": 169,
+            "id": 531309,
+            "video": false,
+            "vote_average": 5.6,
+            "title": "Brightburn",
+            "popularity": 69.708,
+            "poster_path": "/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg",
+            "original_language": "en",
+            "original_title": "Brightburn",
+            "genre_ids": [
+                27,
+                878,
+                18,
+                53
+            ],
+            "backdrop_path": "/uHEI6v8ApQusjbaRZ8o7WcLYeWb.jpg",
+            "adult": false,
+            "overview": "What if a child from another world crash-landed on Earth, but instead of becoming a hero to mankind, he proved to be something far more sinister?",
+            "release_date": "2019-05-09"
+        },
+        {
+            "vote_count": 191,
+            "id": 505600,
+            "video": false,
+            "vote_average": 7.2,
+            "title": "Booksmart",
+            "popularity": 56.405,
+            "poster_path": "/2aSxRDmisJP90H3S0aocyuQIe4z.jpg",
+            "original_language": "en",
+            "original_title": "Booksmart",
+            "genre_ids": [
+                35,
+                18,
+                10749
+            ],
+            "backdrop_path": "/wcAqndL2MkIjPrCrYeuE794weNE.jpg",
+            "adult": false,
+            "overview": "Two academic teenage superstars realize, on the eve of their high school graduation, that they should have worked less and played more. Determined to never fall short of their peers, the girls set out on a mission to cram four years of fun into one night.",
+            "release_date": "2019-05-24"
+        },
+        {
+            "vote_count": 183,
+            "id": 449562,
+            "video": false,
+            "vote_average": 6,
+            "title": "The Hustle",
+            "popularity": 40.818,
+            "poster_path": "/qibqW5Dnvqp4hcEnoTARbQgxwJy.jpg",
+            "original_language": "en",
+            "original_title": "The Hustle",
+            "genre_ids": [
+                35
+            ],
+            "backdrop_path": "/s6awXOxTKYQLSktiIJfI3969dZH.jpg",
+            "adult": false,
+            "overview": "Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy \"Dirty Rotten Scoundrels.\"",
+            "release_date": "2019-05-09"
+        },
+        {
+            "vote_count": 747,
+            "id": 457799,
+            "video": false,
+            "vote_average": 7,
+            "title": "Extremely Wicked, Shockingly Evil and Vile",
+            "popularity": 37.821,
+            "poster_path": "/bP8T3WWpFTvyITSzetR3UCnG45M.jpg",
+            "original_language": "en",
+            "original_title": "Extremely Wicked, Shockingly Evil and Vile",
+            "genre_ids": [
+                53,
+                80,
+                18,
+                36
+            ],
+            "backdrop_path": "/5yXNf13ly6kFQSbI5BZRQlDhCib.jpg",
+            "adult": false,
+            "overview": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.",
+            "release_date": "2019-05-02"
+        },
+        {
+            "vote_count": 1,
+            "id": 523172,
+            "video": false,
+            "vote_average": 0,
+            "title": "Late Night",
+            "popularity": 30.12,
+            "poster_path": "/xxwb5KBqS0SHsUcyLgWMk3vuVxY.jpg",
+            "original_language": "en",
+            "original_title": "Late Night",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "backdrop_path": "/smsd8whMlYuIDvfGc63AZ5eTJHo.jpg",
+            "adult": false,
+            "overview": "Legendary late-night talk show host's world is turned upside down when she hires her only female staff writer. Originally intended to smooth over diversity concerns, her decision has unexpectedly hilarious consequences as the two women separated by culture and generation are united by their love of a biting punchline.",
+            "release_date": "2019-06-06"
+        },
+        {
+            "vote_count": 5,
+            "id": 455957,
+            "video": false,
+            "vote_average": 5.6,
+            "title": "Domino",
+            "popularity": 23.986,
+            "poster_path": "/rrX1ojdd068aHlrGq5Khd92a3ba.jpg",
+            "original_language": "en",
+            "original_title": "Domino",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "backdrop_path": "/1NGFwLyUo6YYLYD6jUaiWXgxh6n.jpg",
+            "adult": false,
+            "overview": "Seeking justice for his partner’s murder by an ISIS member, a Copenhagen police officer finds himself caught in a cat and mouse game with a duplicitous CIA agent who is using the killer as a pawn to trap other ISIS members.",
+            "release_date": "2019-05-31"
+        },
+        {
+            "vote_count": 29,
+            "id": 468224,
+            "video": false,
+            "vote_average": 5.7,
+            "title": "Tolkien",
+            "popularity": 22.455,
+            "poster_path": "/5ElXRKi773koW0mAnRjpNTpgZXZ.jpg",
+            "original_language": "en",
+            "original_title": "Tolkien",
+            "genre_ids": [
+                18
+            ],
+            "backdrop_path": "/wdw0KYwlIVu1VxESXFWM1x2z1dz.jpg",
+            "adult": false,
+            "overview": "Explore the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the “fellowship” apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.",
+            "release_date": "2019-05-03"
+        },
+        {
+            "vote_count": 117,
+            "id": 459992,
+            "video": false,
+            "vote_average": 6.9,
+            "title": "Long Shot",
+            "popularity": 21.162,
+            "poster_path": "/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg",
+            "original_language": "en",
+            "original_title": "Long Shot",
+            "genre_ids": [
+                35,
+                10749
+            ],
+            "backdrop_path": "/88r25ghJzVYKq0vaOApqEOZsQlD.jpg",
+            "adult": false,
+            "overview": "When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.",
+            "release_date": "2019-05-02"
+        },
+        {
+            "vote_count": 120,
+            "id": 411728,
+            "video": false,
+            "vote_average": 7.1,
+            "title": "The Professor and the Madman",
+            "popularity": 20.503,
+            "poster_path": "/gtGCDLhfjW96qVarwctnuTpGOtD.jpg",
+            "original_language": "en",
+            "original_title": "The Professor and the Madman",
+            "genre_ids": [
+                18,
+                36,
+                9648,
+                53
+            ],
+            "backdrop_path": "/zhNfM1CSQqJtIqelwlK9iKtSd9P.jpg",
+            "adult": false,
+            "overview": "Professor James Murray begins work compiling words for the first edition of the Oxford English Dictionary in the mid 19th century, and receives over 10,000 entries from a patient at Broadmoor Criminal Lunatic Asylum, Dr. William Minor.",
+            "release_date": "2019-03-07"
+        },
+        {
+            "vote_count": 12,
+            "id": 534490,
+            "video": false,
+            "vote_average": 6.5,
+            "title": "Avengement",
+            "popularity": 19.667,
+            "poster_path": "/rXPxSAYf3FdQktnOtQnvhUPMhFp.jpg",
+            "original_language": "en",
+            "original_title": "Avengement",
+            "genre_ids": [
+                80,
+                28
+            ],
+            "backdrop_path": "/gUnZ7gu45MjvkO8DczARXGNfYVP.jpg",
+            "adult": false,
+            "overview": "While on a prison furlough, a lowly criminal evades his guards and returns to his old stomping ground to take revenge on the people who turned him into a cold blooded killer.",
+            "release_date": "2019-05-24"
+        }
+    ],
+    "page": 1,
+    "total_results": 75,
+    "dates": {
+        "maximum": "2019-06-11",
+        "minimum": "2019-04-24"
+    },
+    "total_pages": 4
+}

@@ -1,37 +1,16 @@
 import Foundation
 
-public struct Resource<A> {
+public struct Resource<A: Decodable> {
 
-    public let url: URL
-    public let method: HttpMethod<Data>
+    public let request: URLRequest
     public let parse: (Data) -> A?
 
-    public init(url: URL, method: HttpMethod<Data> = .get, parse: @escaping (Data) -> A?) {
-        self.url = url
-        self.method = method
-        self.parse = parse
-    }
-}
-
-public extension Resource {
-
-    init(url: URL, method: HttpMethod<Data> = .get, parseJSON: @escaping (Any) -> A?) {
-        self.url = url
-        self.method = method.map { json -> Data in
-            let result = try! JSONSerialization.data(withJSONObject: json, options: [])
-            return result
-        }
-        self.parse = { data in
-            let json = try? JSONSerialization.jsonObject(with: data, options: [])
-            return json.flatMap(parseJSON)
-        }
-    }
-}
-
-public extension Resource where A: Decodable {
-    init(url: URL) {
-        self.url = url
-        self.method = .get
+    public init(request: URLRequest) {
+        self.request = request
         self.parse = { try? JSONDecoder().decode(A.self, from: $0) }
+    }
+    
+    public init(url: URL) {
+        self = .init(request: URLRequest(url: url))
     }
 }

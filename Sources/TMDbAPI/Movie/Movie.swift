@@ -12,7 +12,7 @@ extension TMDb {
 //MARK: - Results
 
 extension TMDb.Movie {
-
+    
     public func details(for movieId: Id, appending appendOptions: AppendOptions = []) -> Resource<DetailResultObject> {
         let url = detailsUrl(for: movieId, appending: appendOptions)
         let resource = Resource<DetailResultObject>(url: url)
@@ -21,34 +21,27 @@ extension TMDb.Movie {
 
     public func popular(page: Page = 1) -> Resource<[ListResultObject]> {
         let url = popularUrl(page: page)
-        return Resource<[ListResultObject]>(url: url, parse: parseList)
+        return Resource<[ListResultObject]>(url: url)
     }
 
     public func topRated(page: Page = 1) -> Resource<[ListResultObject]> {
         let url = topRatedUrl(page: page)
-        return Resource<[ListResultObject]>(url: url, parse: parseList)
+        return Resource<[ListResultObject]>(url: url)
     }
 
     public func nowPlaying(page: Page = 1) -> Resource<[ListResultObject]> {
         let url = nowPlayingUrl(page: page)
-        return Resource<[ListResultObject]>(url: url, parse: parseList)
+        return Resource<[ListResultObject]>(url: url)
     }
 
     public func upcoming(page: Page = 1) -> Resource<[ListResultObject]> {
         let url = upcomingUrl(page: page)
-        return Resource<[ListResultObject]>(url: url, parse: parseList)
+        return Resource<[ListResultObject]>(url: url)
     }
 
     public func credits(for movieId: Id) -> Resource<CreditsObject> {
         let url = creditsUrl(for: movieId)
         return Resource<CreditsObject>(url: url)
-    }
-
-    // Private
-
-    private func parseList(data: Data) -> [TMDb.Movie.ListResultObject]? {
-        let list = try? JSONDecoder().decode(TMDb.Movie.List.self, from: data)
-        return list?.resultObjects
     }
 }
 
